@@ -1,0 +1,24 @@
+* {
+	box-sizing: border-box;
+}
+
+body { 
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    font-family: 'Niconne', cursive;
+}
+h1 {
+    text-align: center;
+    padding: 50px;
+}
+p {
+    text-align: center;
+    font-size: 25px;
+}
+.refrain {
+    color: #9aa7bc;
+}
+.verse1, .verse2 {
+    color: #61666d;
+}
