@@ -1,1 +1,1 @@
-# learning-git-2
+https://ciri1987.github.io/GIT/
