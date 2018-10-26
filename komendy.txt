@@ -1,0 +1,6 @@
+Nu-html-checker:
+komenda sprawdzaj¹ca poprawnoœæ html: node_modules/.bin/nu-html-checker *.html
+
+Autoprefixer-cli
+
+komenda zapisuj¹ca style.css do style.prefixed.css node_modules/.bin/autoprefixer-cli style.css
